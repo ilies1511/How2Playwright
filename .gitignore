@@ -1,0 +1,4 @@
+.env
+recorded_script.py
+register_user.py
+venv/
